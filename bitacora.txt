@@ -1,0 +1,41 @@
+commit acccde0147b1f9e1fe28e5175cf774e966000105
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Mon Mar 4 11:38:51 2024 -0600
+
+    5to commit ciclo while
+
+commit 03e7bf06880b9bf521c8f8d7144eddec41f09039
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Mon Mar 4 11:35:34 2024 -0600
+
+    4to commit mostrar resultados
+
+commit d1c785ed940c89d1c3f553c86d76e1ed0f7a8c2d
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Mon Mar 4 11:32:28 2024 -0600
+
+    3er commit calcular ganador y perdedor
+
+commit 04015cd30953571ed10ba8becac07592e86c9d72
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Mon Mar 4 11:29:40 2024 -0600
+
+    2do commit Tabla de candidatos
+
+commit 67bd4040c6d712e9c898b7f1f14363946e0edb55
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Mon Mar 4 11:26:15 2024 -0600
+
+    1er commit igresar nombres de candidatos
+
+commit 7b44e2d68156769213d5da5e91a363b10910f4d7
+Author: Leticia Sontay <lsontayc1@miumg.edu.gt>
+Date:   Mon Mar 4 10:23:14 2024 -0600
+
+    1er commit ingreso candidatos
+
+commit 5c56a52950251041bd62a0ff2ea28bb541cd486e
+Author: Leticia <97976606+LeticiaSontay@users.noreply.github.com>
+Date:   Mon Mar 4 10:06:43 2024 -0600
+
+    Initial commit
