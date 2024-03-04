@@ -51,5 +51,28 @@ public class Examen_1 {
                 }
                 System.out.println();
             }
+                       // Calcular el candidato ganador y el que obtuvo menos votos
+            for (int candidato = 0; candidato < 5; candidato++) {
+                for (int ronda = 0; ronda < 5; ronda++) {
+                    totalVotos[candidato] += votos[candidato][ronda];
+                }
+            }
+            // comentario
+
+            // Encontrar el ganador y el que obtuvo menos votos
+            int ganador = 0;
+            int menosVotos = 0;
+            for (int candidato = 1; candidato < 5; candidato++) {
+                if (totalVotos[candidato] > totalVotos[ganador]) {
+                    ganador = candidato;
+                }
+                if (totalVotos[candidato] < totalVotos[menosVotos]) {
+                    menosVotos = candidato;
+                }
+            }
+
+            
+            
+            
 }
 }
