@@ -17,6 +17,7 @@ public class Examen_1 {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random(); 
  
+        while(true){
     
                 String[] candidatos = new String[5];
         int [][] votos = new int[5][5];  
@@ -75,7 +76,13 @@ public class Examen_1 {
             System.out.println("El candidato con menos votos es: " + candidatos[menosVotos]);  
             System.out.println();
     
-            
+                 System.out.print("\n¿Desea Repetir las elecciones? (s/n): ");
+            String respuesta = scanner.nextLine();
+            if (!respuesta.equalsIgnoreCase("s")) {
+                break; // Salir del bucle si la respuesta no es "s"
+            }
+        
+}           
             
             
 }
