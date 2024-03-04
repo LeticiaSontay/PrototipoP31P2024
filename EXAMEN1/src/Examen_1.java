@@ -70,7 +70,11 @@ public class Examen_1 {
                     menosVotos = candidato;
                 }
             }
-
+           // Mostrar resultados
+            System.out.println("\nEl candidato ganador es: " + candidatos[ganador]);
+            System.out.println("El candidato con menos votos es: " + candidatos[menosVotos]);  
+            System.out.println();
+    
             
             
             
